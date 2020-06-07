@@ -20,3 +20,6 @@ It is presented in the Deep Learning ND and as a supplementary material in the C
 
 ## OOP Statistics (Create package OOP)
 A basic and extensible package using basic Python 3.7 Anaconda installation (or just Python 3.7 plus Matplotlib) to demonstrate the creation of a package and following OOP principles.
+The package creates a general probabilistic distribution and two different base distribution have been defined:
+- Gaussian: **class** It describes a Gaussian distribution by mean and standard deviation
+- Binomial: **class** It describes a Binomial distribution by the probability of the binomial, and the number of elements in the population.
